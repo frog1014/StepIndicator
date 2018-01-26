@@ -6,6 +6,23 @@ Interactive step paging indicator widget, compatible with the ViewPager
 ![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/port4.gif)![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/port6.gif)
 ![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/custom_step.png)
 ![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/land6.gif)
+
+##Before
+
+The current item is covered and hard to touch.
+
+![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/20180126_153021.gif)
+
+##After
+
+Touch easily and fancy.
+
+![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/20180126_154027.gif)
+
+So, we can apply in another way such as a serialized path.
+
+![StepIndicator](https://github.com/layerlre/StepIndicator/raw/master/images/20180126_153942.gif)
+
 # Usage
   1. Include one of the widgets in your view. This should usually be placed
      adjacent to the `ViewPager` it represents.
